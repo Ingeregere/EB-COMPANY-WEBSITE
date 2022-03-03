@@ -9,6 +9,12 @@
 
 
 }
+.titlefooter{
+    color: #fdc475;
+}
+.descriptionebcompany{
+    max-width: 60%;
+}
 .simat-burundi{
     font-size: 14px;
     word-break: break-all;
@@ -16,4 +22,5 @@
 }
 .paddingfooter{
    padding-top: 4em;
+   padding-bottom: 2em;
 }

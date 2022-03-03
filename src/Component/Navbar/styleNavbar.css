@@ -4,7 +4,13 @@
 }
 .linksimatbdi{
     font-size:20px;
-    color: #1F2336;
-    font-weight:400;
+    font-weight:500;
 
+}
+.titlenavbar{
+    color: #fdc475;
+}
+button.borderNavbar.navbar-toggler{
+    color:#EDECEC;
+    border-color: #EDECEC;
 }
