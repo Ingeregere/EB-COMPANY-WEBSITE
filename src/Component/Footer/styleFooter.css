@@ -11,6 +11,7 @@
 }
 .titlefooter{
     color: #fdc475;
+    text-transform: uppercase;
 }
 .descriptionebcompany{
     max-width: 60%;
