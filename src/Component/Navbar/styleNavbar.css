@@ -4,11 +4,13 @@
 }
 .linksimatbdi{
     font-size:20px;
-    font-weight:500;
+    font-weight:400;
 
 }
 .titlenavbar{
     color: #fdc475;
+    text-transform: uppercase;
+
 }
 button.borderNavbar.navbar-toggler{
     color:#EDECEC;

@@ -33,7 +33,7 @@ const Footer = () => {
                         <Col md={3} sm={12} xs={12}>
                         <h5 className={' text-uppercase titlefooter'}>Nous contacter </h5>
                             <ul className="nav flex-column">
-                                <li className="nav-item mb-2 text-white"><Link to={"info@eb-company.com"} className="nav-link p-0 text-white all_link">info@eb-company.com</a></li>
+                                <li className="nav-item mb-2 text-white"><Link to={"/"}  className="nav-link p-0 text-white all_link">info@eb-company.com</Link></li>
                                 <li className="nav-item mb-2 text-white"><Link to={"/"} className="nav-link p-0 text-white all_link">79 343 813 / 72 415 986 </Link></li>
                             </ul>
                         </Col>
