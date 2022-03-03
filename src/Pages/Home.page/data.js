@@ -1,18 +1,18 @@
 export const homeObjOne = {
-    lightBg: false,
-    lightText: false,
+    lightBg: true,
+    lightText: true,
     lightTextDesc: false,
     topLine: 'EB-COMPANY',
     headline: 'EB-COMPANY',
-    description: "EB-COMPANY est une entreprise privée oeuvrant dans le domaine informatiqueil fait la digitalisation.",
+    description: "EB-COMPANY  est l'une des meilleures et des principales sociétés de développement de logiciels innovants au Burundi. Promesses d'offrir les meilleurs logiciels d'applications mobiles, Web et de bureau personnalisés ou prêts à l'emploi au monde.",
     buttonLabel: 'Voir plus',
     imgStart: '',
     img1: 'images/imagehome.png',
     alt: 'eb-company'
   };
   export const homeObjTwo= {
-    lightBg: true,
-    lightText: false,
+    lightBg: false,
+    lightText: true,
     lightTextDesc: false,
     topLine: 'Logiciel et Application web',
     headline: 'EB-COMPANY vous donne des applications web ',
@@ -23,8 +23,8 @@ export const homeObjOne = {
     alt: 'eb-company'
   };
   export const homeObjThird= {
-    lightBg: false,
-    lightText: false,
+    lightBg: true,
+    lightText: true,
     lightTextDesc: false,
     topLine: 'Application mobile',
     headline: 'Android et ios',
@@ -35,11 +35,11 @@ export const homeObjOne = {
     alt: 'eb-company'
   };
   export const homeObjFour= {
-    lightBg: true,
-    lightText: false,
+    lightBg: false,
+    lightText: true,
     lightTextDesc: false,
     topLine: 'site web',
-    headline: 'Android et ios',
+    headline: 'site web',
     description: "EB-COMPANY est une entreprise privée oeuvrant dans le domaine informatique.",
     buttonLabel: 'Voir plus',
     imgStart: 'start',

@@ -19,8 +19,8 @@ function Navbars() {
   <Navbar.Toggle aria-controls="responsive-navbar-nav " className={'borderNavbar '} />
   <Navbar.Collapse id="responsive-navbar-nav " className="justify-content-end">
     <Nav className="me-right" ref={mainContent}>
-      <Nav.Link as={Link} to={"/"}  className={'linksimatbdi text-white '}>Accueil</Nav.Link>
-      <Nav.Link as={Link} to={"/nos-produits"}  className={'linksimatbdi text-white '}>Nos produits</Nav.Link>
+      <Nav.Link as={Link} to={"/"}  className={'linksimatbdi'}>Accueil</Nav.Link>
+      <Nav.Link as={Link} to={"/nos-produits"}  className={'linksimatbdi'}>Nos produits</Nav.Link>
     </Nav>
   </Navbar.Collapse>
   </Container>
