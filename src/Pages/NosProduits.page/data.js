@@ -2,7 +2,7 @@ export const homeObjOne = {
     lightBg: false,
     lightText: false,
     lightTextDesc: false,
-    topLine: 'Pharmacy',
+    topLine: 'Logiciel pharmaceutique',
     headline: "Appliquer l'automatisation, être dynamique, générer des bénéfices",
     description: "L'application d'un système d'automatisation au bon endroit avec la bonne technologie peut faire une énorme différence dans votre entreprise. Ce n'est qu'en utilisant un logiciel de pharmacie que vous pouvez assurer une sortie productive de votre entreprise de pharmacie. Aidez à superviser vos employés avec des données précises et un support client..",
     buttonLabel: 'Voir plus',

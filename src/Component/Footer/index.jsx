@@ -19,8 +19,8 @@ const Footer = () => {
                                </Col>
                                 <Col>
                                 <p className={'text-white descriptionebcompany'}>
-                                © 2022 <span className={'simat-burundi'}>EB-COMPANY.</span>Tous les droits sont réservés. 
-                                <span className={'text-center'}>Tous les logiciels et thèmes sont développés </span> <span className={"eb-companye"}>par EB-COMPANY </span>. 
+                                © 2022 <span className={'simat-burundi'}>EB-COMPANY.{" "}</span>Tous les droits sont réservés. 
+                                <span className={'text-center'}> {" "}Tous les logiciels et thèmes sont développés </span> <span className={"eb-companye"}>par EB-COMPANY </span>. 
                                 </p>
 
                                 </Col>
