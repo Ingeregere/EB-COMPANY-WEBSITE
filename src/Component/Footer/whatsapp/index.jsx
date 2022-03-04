@@ -9,7 +9,7 @@ export default function WhatsappChat() {
 			accountName={'EB-COMPANY'}
 			avatar={'iconwhatsapp.png'}
 			statusMessage={'EB-COMPANY en ligne'}
-			chatMessage={'Bonjour, si vous voulez une de nos applications pour recevoir un mot de passe ou une autre question contactez-nous  merci!'}
+			chatMessage={'Bonjour, voulez-vous une de nos applications? contactez-nous,  merci!'}
 			notification={true}
 			notificationSound={true}
 		/>
